@@ -16,7 +16,8 @@ export default {
 				primary_hover: "#FFAD33",
 				secondary_hover: "#C4C4C4",
 
-				text_black: "#292324"
+				text_black: "#292324",
+				text_gray: "#666666",
 			},
 		},
 	},
